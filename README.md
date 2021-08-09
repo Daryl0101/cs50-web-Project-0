@@ -1,6 +1,6 @@
 # cs50-web-Project-0
 **Search**\
-Front-end for Google Search, Google Image Search & Google Advanced Search.
+Front-end for Google Search, Google Image Search & Google Advanced Search using html and CSS.
 
 This was Project 0 from HarvardX's CS50w course.
 
