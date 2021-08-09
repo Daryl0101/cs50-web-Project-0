@@ -1,4 +1,4 @@
-# cs50-web-Project-0
+# CS50’s Web Programming with Python and JavaScript - Project 0
 **Search**\
 Front-end for Google Search, Google Image Search & Google Advanced Search using html and CSS.
 
